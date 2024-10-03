@@ -1,9 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.31d6cfe0.js",
-    "index.html": "/index.html"
+    "main.css": "/static/css/main.609e8a52.css",
+    "main.js": "/static/js/main.f079eb42.js",
+    "static/media/atomic habits.jpg": "/static/media/atomic habits.4b1c04405f93e8e6efc5.jpg",
+    "static/media/psychology of money.jpg": "/static/media/psychology of money.5de7d5119e3d9ff94cd9.jpg",
+    "static/media/Ikagai.jpg": "/static/media/Ikagai.0f045e7a3795d8fd034e.jpg",
+    "index.html": "/index.html",
+    "main.609e8a52.css.map": "/static/css/main.609e8a52.css.map",
+    "main.f079eb42.js.map": "/static/js/main.f079eb42.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.609e8a52.css",
+    "static/js/main.f079eb42.js"
   ]
 }
