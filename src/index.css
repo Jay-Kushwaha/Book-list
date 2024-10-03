@@ -3,6 +3,13 @@
  padding: 0;
  box-sizing: border-box;
 }
+.page {
+  min-width: 300px;
+  background: lightgray;
+  padding: 12px;
+  resize: horizontal;
+  overflow: auto;
+}
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -16,15 +23,10 @@ body {
   max-width: 1170px;
   margin: 5rem auto;
   display: grid;
-  grid-template-areas:
-  'a a a';
   gap: 2rem;
 }
-.heading{
- grid-area:a;
-}
-
 .booklist h1 {
+  grid-area: 1;
   display: inline-block;
   text-align: center;
    
